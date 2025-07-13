@@ -1,4 +1,4 @@
-# Enterprise Web App on Huawei Cloud
+# Enterprise Web on Huawei Cloud
 
 This project demonstrates how to deploy a simple enterprise web application using Huawei Cloud services, including ECS, RDS, and networking components like VPC, EIP, and Security Groups.
 
