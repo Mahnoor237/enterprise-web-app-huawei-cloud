@@ -56,8 +56,6 @@ The architecture includes:
   - Port 80 (HTTP)
   - Port 3306 (MySQL)
 
-### E. NAT Gateway (Skipped)
-- NAT Gateway setup was attempted but skipped due to permissions.
 
 ---
 
@@ -68,7 +66,7 @@ See the [`screenshots/`](screenshots/) folder for full step-by-step screenshots 
 - VPC/Subnet creation
 - ECS setup & public web access
 - RDS deployment & private connectivity
-- Security Group configurations
+
 
 ---
 
